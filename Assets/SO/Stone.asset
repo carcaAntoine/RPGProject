@@ -15,3 +15,4 @@ MonoBehaviour:
   itemName: Stone
   visual: {fileID: 21300000, guid: f7111abcf951a1f4398426869d06640b, type: 3}
   prefab: {fileID: 1640404613741247571, guid: 2081555bb3c051e458fa325201225966, type: 3}
+  stackable: 1

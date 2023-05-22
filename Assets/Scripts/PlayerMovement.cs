@@ -81,14 +81,14 @@ public class PlayerMovement : MonoBehaviour
             {
                 isMoving = true;
             }
-            Debug.Log("I'm moving");
+            //Debug.Log("I'm moving");
                 
         }
         else
         {
             playerAnimator.SetBool("isMoving", false);
             isMoving = false;
-            Debug.Log("I'm not moving");
+            //Debug.Log("I'm not moving");
         }
     }
 }
